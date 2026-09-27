@@ -1,0 +1,15 @@
+{
+  "name": "@expatslistorg/free100leads",
+  "version": "1.0.0",
+  "description": "Claude skill: how to use Free100Leads, 147M+ B2B contact database, 100 free leads a day.",
+  "homepage": "https://free100leads.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExpatslistORG/free100leads.com"
+  },
+  "files": ["SKILL.md", "README.md"],
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
